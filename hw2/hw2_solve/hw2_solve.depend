@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1395599008 source:z:\作業\程設\hw2\hw2_solve\main.cpp
+	<cstdio>
+	"..\Sudoku.h"
+	<ctime>
+
+1395904472 z:\作業\程設\hw2\sudoku.h
+
+1395904897 source:z:\作業\程設\hw2\sudoku.cpp
+	"Sudoku.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1396097162 source:z:\作業\程設\hw2\作業\hw2_solve\main.cpp
+	<cstdio>
+	"..\Sudoku.h"
+	<ctime>
+
+1396097247 z:\作業\程設\hw2\作業\sudoku.h
+
+1396098707 source:z:\作業\程設\hw2\作業\sudoku.cpp
+	"Sudoku.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+

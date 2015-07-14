@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="hw2_solve/hw2_solve.cbp" />
+		<Project filename="hw2_give_question/hw2_give_question.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

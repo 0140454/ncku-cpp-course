@@ -1,0 +1,118 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file alias="images/background">res/background.bmp</file>
+	<file alias="images/info">res/info.bmp</file>
+	<file alias="images/side">res/side.bmp</file>
+	<file alias="images/spiked">res/spiked.bmp</file>
+	<file alias="images/welcome">res/welcome.bmp</file>
+	<file alias="images/message_panel">res/message_panel.bmp</file>
+	<file alias="images/pause">res/pause.bmp</file>
+
+	<file alias="stairs/left/1">res/stair_left_1.bmp</file>
+	<file alias="stairs/left/2">res/stair_left_2.bmp</file>
+	<file alias="stairs/left/3">res/stair_left_3.bmp</file>
+	<file alias="stairs/left/4">res/stair_left_4.bmp</file>
+
+	<file alias="stairs/right/1">res/stair_right_1.bmp</file>
+	<file alias="stairs/right/2">res/stair_right_2.bmp</file>
+	<file alias="stairs/right/3">res/stair_right_3.bmp</file>
+	<file alias="stairs/right/4">res/stair_right_4.bmp</file>
+
+	<file alias="stairs/spring/1">res/stair_spring_1.bmp</file>
+	<file alias="stairs/spring/2">res/stair_spring_2.bmp</file>
+	<file alias="stairs/spring/3">res/stair_spring_3.bmp</file>
+	<file alias="stairs/spring/4">res/stair_spring_4.bmp</file>
+
+	<file alias="stairs/onetime/1">res/stair_onetime_1.bmp</file>
+	<file alias="stairs/onetime/2">res/stair_onetime_2.bmp</file>
+	<file alias="stairs/onetime/3">res/stair_onetime_3.bmp</file>
+	<file alias="stairs/onetime/4">res/stair_onetime_4.bmp</file>
+	<file alias="stairs/onetime/5">res/stair_onetime_5.bmp</file>
+	<file alias="stairs/onetime/6">res/stair_onetime_6.bmp</file>
+
+	<file alias="stairs/normal">res/stair_normal.bmp</file>
+
+	<file alias="stairs/spiked/up">res/stair_spiked_up.bmp</file>
+	<file alias="stairs/spiked/down">res/stair_spiked_down.bmp</file>
+
+	<file alias="man/stand">res/man_stand.bmp</file>
+
+	<file alias="man/right/1">res/man_right_1.bmp</file>
+	<file alias="man/right/2">res/man_right_2.bmp</file>
+	<file alias="man/right/3">res/man_right_3.bmp</file>
+	<file alias="man/right/4">res/man_right_4.bmp</file>
+
+	<file alias="man/drop_right/1">res/man_drop_right_1.bmp</file>
+	<file alias="man/drop_right/2">res/man_drop_right_2.bmp</file>
+	<file alias="man/drop_right/3">res/man_drop_right_3.bmp</file>
+	<file alias="man/drop_right/4">res/man_drop_right_4.bmp</file>
+
+	<file alias="man/left/1">res/man_left_1.bmp</file>
+	<file alias="man/left/2">res/man_left_2.bmp</file>
+	<file alias="man/left/3">res/man_left_3.bmp</file>
+	<file alias="man/left/4">res/man_left_4.bmp</file>
+
+	<file alias="man/drop_left/1">res/man_drop_left_1.bmp</file>
+	<file alias="man/drop_left/2">res/man_drop_left_2.bmp</file>
+	<file alias="man/drop_left/3">res/man_drop_left_3.bmp</file>
+	<file alias="man/drop_left/4">res/man_drop_left_4.bmp</file>
+
+	<file alias="man/drop/1">res/man_drop_1.bmp</file>
+	<file alias="man/drop/2">res/man_drop_2.bmp</file>
+	<file alias="man/drop/3">res/man_drop_3.bmp</file>
+	<file alias="man/drop/4">res/man_drop_4.bmp</file>
+
+	<file alias="man/stand_warn">res/man_stand_warn.bmp</file>
+
+	<file alias="man/right_warn/1">res/man_right_warn_1.bmp</file>
+	<file alias="man/right_warn/2">res/man_right_warn_2.bmp</file>
+	<file alias="man/right_warn/3">res/man_right_warn_3.bmp</file>
+	<file alias="man/right_warn/4">res/man_right_warn_4.bmp</file>
+
+	<file alias="man/drop_right_warn/1">res/man_drop_right_warn_1.bmp</file>
+	<file alias="man/drop_right_warn/2">res/man_drop_right_warn_2.bmp</file>
+	<file alias="man/drop_right_warn/3">res/man_drop_right_warn_3.bmp</file>
+	<file alias="man/drop_right_warn/4">res/man_drop_right_warn_4.bmp</file>
+
+	<file alias="man/left_warn/1">res/man_left_warn_1.bmp</file>
+	<file alias="man/left_warn/2">res/man_left_warn_2.bmp</file>
+	<file alias="man/left_warn/3">res/man_left_warn_3.bmp</file>
+	<file alias="man/left_warn/4">res/man_left_warn_4.bmp</file>
+
+	<file alias="man/drop_left_warn/1">res/man_drop_left_warn_1.bmp</file>
+	<file alias="man/drop_left_warn/2">res/man_drop_left_warn_2.bmp</file>
+	<file alias="man/drop_left_warn/3">res/man_drop_left_warn_3.bmp</file>
+	<file alias="man/drop_left_warn/4">res/man_drop_left_warn_4.bmp</file>
+
+	<file alias="man/drop_warn/1">res/man_drop_warn_1.bmp</file>
+	<file alias="man/drop_warn/2">res/man_drop_warn_2.bmp</file>
+	<file alias="man/drop_warn/3">res/man_drop_warn_3.bmp</file>
+	<file alias="man/drop_warn/4">res/man_drop_warn_4.bmp</file>
+
+	<file alias="life/label">res/life.bmp</file>
+	<file alias="life/0">res/hp_0.bmp</file>
+	<file alias="life/1">res/hp_1.bmp</file>
+	<file alias="life/2">res/hp_2.bmp</file>
+	<file alias="life/3">res/hp_3.bmp</file>
+	<file alias="life/4">res/hp_4.bmp</file>
+	<file alias="life/5">res/hp_5.bmp</file>
+	<file alias="life/6">res/hp_6.bmp</file>
+	<file alias="life/7">res/hp_7.bmp</file>
+	<file alias="life/8">res/hp_8.bmp</file>
+	<file alias="life/9">res/hp_9.bmp</file>
+	<file alias="life/10">res/hp_10.bmp</file>
+	<file alias="life/11">res/hp_11.bmp</file>
+	<file alias="life/12">res/hp_12.bmp</file>
+
+	<file alias="score/basement">res/basement.bmp</file>
+	<file alias="score/floor">res/floor.bmp</file>
+	<file alias="score/number">res/num.bmp</file>
+
+	<file alias="sounds/normal">res/normal.wav</file>
+	<file alias="sounds/dead">res/dead.wav</file>
+	<file alias="sounds/rotate">res/rotate.wav</file>
+	<file alias="sounds/warning">res/warning.wav</file>
+	<file alias="sounds/spring">res/spring.wav</file>
+	<file alias="sounds/onetime">res/onetime.wav</file>
+</qresource>
+</RCC>
